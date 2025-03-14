@@ -9,7 +9,7 @@ A simple and interactive Tic Tac Toe game built with HTML, CSS, and JavaScript. 
 - Game result animation with winning and tie indications.
 
 ## Demo
-Check out the live demo [here](https://your-github-username.github.io/tic-tac-toe-minimax/).
+Check out the live demo [here](https://www.linkedin.com/feed/update/urn:li:ugcPost:7306342363424034817/).
 
 ## Installation
 1. Clone the repository:
