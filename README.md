@@ -43,5 +43,4 @@ Feel free to fork the repository and submit pull requests with improvements or n
 This project is licensed under the MIT License.
 
 ---
-Enjoy the game and good luck beating the AI! 😄
 
