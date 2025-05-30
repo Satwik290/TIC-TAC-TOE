@@ -1,6 +1,6 @@
 # Tic Tac Toe with Minimax AI
 
-A simple and interactive Tic Tac Toe game built with HTML, CSS and JavaScript. The AI opponent uses the Minimax algorithm to provide a challenging experience!
+A simple and interactive Tic Tac Toe game built with HTML, CSS & JavaScript. The AI opponent uses the Minimax algorithm to provide a challenging experience!
 
 ## Features
 - Single-player mode with AI opponent.
@@ -40,7 +40,7 @@ cd tic-tac-toe-minimax
 Feel free to fork the repository and submit pull requests with improvements or new features.
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the MIT License...
 
 ---
 
